@@ -138,3 +138,7 @@ section {
   top: 0;
   right: 0;
 }
+
+#social a {
+  display: block;
+}
