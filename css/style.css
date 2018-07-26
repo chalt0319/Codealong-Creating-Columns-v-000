@@ -96,12 +96,12 @@ img, video, audio {
 }
 
 .col-3 {
-  background: #lime;
+  background: lime;
 }
 
 [class*="col-"] {
   margin-left: 2%;
-  background: #lime;
+  background: lime;
 }
 
 .first {
