@@ -159,5 +159,8 @@ header {
   top: 0;
   left: 0;
   z-index: 1;
-  
+  width: 1080px;
+  margin: 0 auto;
+  background: pink;
+
 }
