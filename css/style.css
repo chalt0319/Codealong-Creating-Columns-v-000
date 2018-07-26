@@ -96,12 +96,12 @@ img, video, audio {
 }
 
 .col-3 {
-  background: #4BBBE8;
+  background: #70D0F6;
 }
 
 [class*="col-"] {
   margin-left: 2%;
-  background: #4BBBE8;
+  background: #70D0F6;
 }
 
 .first {
@@ -116,8 +116,14 @@ img, video, audio {
   height: 0;
   line-height: 0;
 }
+
 * {
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
+}
+
+section {
+  padding: 15px;
+  bottom-margin: 15px;
 }
