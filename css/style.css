@@ -132,3 +132,9 @@ section {
 #details p, #details h3, #details address{
   padding: 10px;
 }
+
+#social {
+  position: fixed;
+  top: 0;
+  right: 0;
+}
