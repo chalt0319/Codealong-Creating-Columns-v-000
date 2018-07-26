@@ -135,8 +135,8 @@ section {
 
 #social {
   position: fixed;
-  top: 0;
-  right: 0;
+  top: 150px;
+  right: 20px;
   width: 90px;
   z-index: 1;
 }
