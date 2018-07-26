@@ -127,3 +127,7 @@ section {
   padding: 15px;
   margin: 15px;
 }
+
+#details p {
+  padding: 10px;
+}
