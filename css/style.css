@@ -124,6 +124,8 @@ img, video, audio {
   -moz-box-sizing: border-box;
 }
 
+/*///////// SECTIONS  //////////*/
+
 section {
   padding: 15px;
   margin: 15px;
@@ -148,4 +150,14 @@ section {
   width: 40px;
   height: 40px;
   background: pink;
+}
+
+/*///////// HEADER //////////*/
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  
 }
