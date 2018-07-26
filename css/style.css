@@ -96,6 +96,7 @@ img, video, audio {
 }
 
 .col-3 {
+  width: 100%;
   background: #70D0F6;
 }
 
