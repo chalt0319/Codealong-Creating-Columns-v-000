@@ -137,6 +137,7 @@ section {
   position: fixed;
   top: 150px;
   right: 15px;
+  width: 40px;
   z-index: 1;
 }
 
