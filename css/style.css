@@ -138,9 +138,12 @@ section {
   top: 0;
   right: 0;
   width: 90px;
+  z-index: 1;
 }
 
 #social a {
   display: block;
+  width: 90px;
+  height: 90px;
 
 }
