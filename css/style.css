@@ -100,7 +100,7 @@ img, video, audio {
 }
 
 [class*="col-"] {
-  margin: 2%;
+  margin-left: 2%;
   background: #70D0F6;
 }
 
