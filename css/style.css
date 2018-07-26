@@ -78,7 +78,7 @@ img, video, audio {
 }
 
 .first-img {
-  top-margin: 400px;
+  padding-top: 400px;
 }
 
 /*///////// LAYOUT //////////*/
