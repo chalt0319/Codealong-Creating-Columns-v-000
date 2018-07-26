@@ -109,7 +109,7 @@ img, video, audio {
 }
 
 .first {
-  margin: 3px;
+  margin: 0 auto;
 }
 
 .clearfix:after {
